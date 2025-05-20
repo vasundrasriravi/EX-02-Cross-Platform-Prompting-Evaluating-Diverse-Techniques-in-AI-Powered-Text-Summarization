@@ -9,10 +9,12 @@ To evaluate and compare the effectiveness of prompting techniques (zero-shot, fe
 "Summarize the article on 'The Basics of Blockchain Technology' in simple terms."
 
 Tool A: ChatGPT (OpenAI)
+
 Output:
 ChatGPT explained blockchain as a digital ledger where transactions are recorded in linked blocks, secured by cryptography, and used in cryptocurrencies like Bitcoin.
 
 Tool B: Gemini (Google)
+
 Output:
 Gemini described blockchain as a decentralized network that stores data transparently across many computers, emphasizing its use in secure transactions.
 
@@ -21,10 +23,12 @@ Gemini described blockchain as a decentralized network that stores data transpar
 "Using the tech summaries as examples, briefly explain 'The Basics of Blockchain Technology.'"
 
 Tool A: ChatGPT (OpenAI)
+
 Output:
 ChatGPT explained blockchain as a secure digital system where data is stored in linked blocks across many computers, helping make transactions safe and transparent.
 
 Tool B: Gemini (Google)
+
 Output:
 Gemini described blockchain as a public, decentralized ledger that records transactions securely and is widely used in cryptocurrencies like Bitcoin.
 
@@ -33,10 +37,12 @@ Gemini described blockchain as a public, decentralized ledger that records trans
 "What is blockchain? How does it work? Where is it used? Summarize clearly."
 
 Tool A: ChatGPT (OpenAI)
+
 Output:
 ChatGPT explained blockchain stepwise — a chain of blocks storing transactions, secured by cryptography, validated by a network, used in digital currencies and beyond.
 
 Tool B: Gemini (Google)
+
 Output:
 Gemini broke down blockchain into components, describing its decentralized ledger, security features, and real-world uses like supply chain and finance.
 
@@ -45,10 +51,12 @@ Gemini broke down blockchain into components, describing its decentralized ledge
 "Explain 'The Basics of Blockchain Technology' as if you are a professor teaching first-year students."
 
 Tool A: ChatGPT (OpenAI)
+
 Output:
 ChatGPT used a friendly, teaching tone: described blockchain as a tamper-proof digital notebook shared across many computers, highlighting examples like Bitcoin.
 
 Tool B: Gemini (Google)
+
 Output:
 Gemini took a formal educator approach, explaining blockchain’s cryptographic basis and network consensus, using terms suitable for an introductory lecture.
 
